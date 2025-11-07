@@ -17,7 +17,6 @@ export const Navigation = () => {
     { name: "Academics", href: "/academics" },
     { name: "Admissions", href: "/admissions" },
     { name: "Student Life", href: "/student-life" },
-    { name: "Placement", href: "/placement" },
     { name: "Contact", href: "/contact" },
   ];
 
